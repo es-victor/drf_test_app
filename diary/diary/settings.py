@@ -121,7 +121,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Africa/Nairobi' # Changed from UTC
+TIME_ZONE = 'Africa/Nairobi'  # Changed from UTC
 
 USE_I18N = True
 
